@@ -53,7 +53,7 @@ npm start
 # or
 yarn start
 
-This will start the development server, and you can view the application in your web browser at http://localhost:3000.
+This will start the development server, and you can view the application in your web browser at http://localhost:3000.<br>
 Features
 
     Create: Add new items to the list.
