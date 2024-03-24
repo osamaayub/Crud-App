@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "93b6",
+      "title": "Web Development",
+      "body": "Your a great Developer",
+      "author": "freeCodeCamp"
+    },
+    {
+      "id": "37fd",
+      "title": "Welcome to the Music Brand Company",
+      "body": "Which type of Music do you like.",
+      "author": "Josh"
+    }
+  ]
+}
